@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a67e27a6-fa9a-4a64-8cbb-27af10311a7e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm/Floid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm/NB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm/Quick-Sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ali_Shahraeeni(AI)/AI.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ali_Shahraeeni(AI)/AI.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ali_Shahraeeni(AI)/Naive Bayes Classifier.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ali_Shahraeeni(AI)/Naive_Bayes(Ali_Shahraeeni).docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ali_Shahraeeni(AI)/Naive_Bayes(Ali_Shahraeeni).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ali_Shahraeeni(AI)/Social_Network_Ads.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Alireza.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Css/ContactUs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Css/bootnavbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Css/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Css/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html/.idea/Html.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html/3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html/AboutUs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html/ContactUs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html/Products.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html/Tak.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/137646854.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/22414818.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/2429.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/2rnDY6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/514926b1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/8f570b58.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/BPMLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/Business-Card-Design-Price.نمونه ای از یک کارت ویزیت_1618655904.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/Carton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/Shopping-Bag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/a9286d2f.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/banner40003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/business_card_10875.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/citation-343817605.ris" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/citation-343817605.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/diamond-shape-golden-pattern-vector-background2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/images (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/images.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/logo-mellat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/logo.aspx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Img/logo3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Js/bootnavbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Charakterny-2Lwv.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/IRANSans/eot/IRANSansWeb.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/IRANSans/eot/IRANSansWeb_Black.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/IRANSans/eot/IRANSansWeb_Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/IRANSans/eot/IRANSansWeb_Light.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/IRANSans/eot/IRANSansWeb_Medium.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/IRANSans/eot/IRANSansWeb_UltraLight.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/IRANSans/ttf/IRANSansWeb.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/IRANSans/ttf/IRANSansWeb_Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/IRANSans/ttf/IRANSansWeb_Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/IRANSans/ttf/IRANSansWeb_Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/IRANSans/ttf/IRANSansWeb_Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/IRANSans/ttf/IRANSansWeb_UltraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/IRANSans/woff/IRANSansWeb.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/IRANSans/woff/IRANSansWeb_Black.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/IRANSans/woff/IRANSansWeb_Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/IRANSans/woff/IRANSansWeb_Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/IRANSans/woff/IRANSansWeb_Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/IRANSans/woff/IRANSansWeb_UltraLight.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/IRANSans/woff2/IRANSansWeb.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/IRANSans/woff2/IRANSansWeb_Black.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/IRANSans/woff2/IRANSansWeb_Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/IRANSans/woff2/IRANSansWeb_Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/IRANSans/woff2/IRANSansWeb_Medium.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/IRANSans/woff2/IRANSansWeb_UltraLight.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/IRANYekan/IRYekan.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/IRANYekan/IRYekan.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/IranNastaliq.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/MagnaVeritas-JRmm.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/css/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/css/all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/css/brands.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/css/brands.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/css/fontawesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/css/fontawesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/css/light.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/css/light.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/css/regular.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/css/regular.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/css/solid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/css/solid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/css/svg-with-js.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/css/svg-with-js.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/css/v4-shims.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/css/v4-shims.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/git.ir.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/js/all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/js/all.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/js/brands.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/js/brands.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/js/fontawesome.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/js/fontawesome.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/js/light.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/js/light.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/js/regular.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/js/regular.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/js/solid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/js/solid.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/js/v4-shims.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/js/v4-shims.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/less/_animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/less/_bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/less/_core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/less/_fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/less/_icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/less/_larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/less/_list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/less/_mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/less/_rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/less/_screen-reader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/less/_shims.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/less/_stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/less/_variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/less/brands.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/less/fontawesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/less/light.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/less/regular.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/less/solid.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/less/v4-shims.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/metadata/categories.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/metadata/icons.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/metadata/icons.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/metadata/shims.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/metadata/shims.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/metadata/sponsors.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/scss/_animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/scss/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/scss/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/scss/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/scss/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/scss/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/scss/_shims.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/scss/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/scss/brands.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/scss/fontawesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/scss/light.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/scss/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/scss/regular.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/scss/solid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/scss/v4-shims.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/webfonts/fa-light-300.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/webfonts/fa-light-300.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/webfonts/fa-light-300.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/webfonts/fa-light-300.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/webfonts/fa-light-300.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome-pro/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Anaconda Navigator (anaconda3).lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Atom.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AtomSetup-x64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Array_Example/.vs/Array_Example/v14/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Array_Example/Array_Example.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Array_Example/Array_Example/App.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Array_Example/Array_Example/Array_Example.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Array_Example/Array_Example/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Array_Example/Array_Example/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Array_Example/Array_Example/bin/Debug/Array_Example.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Array_Example/Array_Example/bin/Debug/Array_Example.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Array_Example/Array_Example/bin/Debug/Array_Example.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Array_Example/Array_Example/bin/Debug/Array_Example.vshost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Array_Example/Array_Example/bin/Debug/Array_Example.vshost.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Array_Example/Array_Example/bin/Debug/Array_Example.vshost.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Array_Example/Array_Example/obj/Debug/Array_Example.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Array_Example/Array_Example/obj/Debug/Array_Example.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Array_Example/Array_Example/obj/Debug/Array_Example.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Array_Example/Array_Example/obj/Debug/Array_Example.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Array_Example/Array_Example/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Array_Example/Array_Example/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Array_Example/Array_Example/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Array_Example/Array_Example/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/CheckName/.vs/CheckName/v14/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/CheckName/CheckName.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/CheckName/CheckName/App.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/CheckName/CheckName/CheckName.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/CheckName/CheckName/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/CheckName/CheckName/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/CheckName/CheckName/bin/Debug/CheckName.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/CheckName/CheckName/bin/Debug/CheckName.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/CheckName/CheckName/bin/Debug/CheckName.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/CheckName/CheckName/bin/Debug/CheckName.vshost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/CheckName/CheckName/bin/Debug/CheckName.vshost.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/CheckName/CheckName/bin/Debug/CheckName.vshost.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/CheckName/CheckName/obj/Debug/CheckName.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/CheckName/CheckName/obj/Debug/CheckName.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/CheckName/CheckName/obj/Debug/CheckName.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/CheckName/CheckName/obj/Debug/CheckName.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/CheckName/CheckName/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/CheckName/CheckName/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/CheckName/CheckName/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/CheckName/CheckName/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Person_Example/.vs/Person_Example/v14/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Person_Example/Person_Example.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Person_Example/Person_Example/App.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Person_Example/Person_Example/Person.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Person_Example/Person_Example/Person_Example.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Person_Example/Person_Example/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Person_Example/Person_Example/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Person_Example/Person_Example/bin/Debug/Person_Example.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Person_Example/Person_Example/bin/Debug/Person_Example.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Person_Example/Person_Example/bin/Debug/Person_Example.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Person_Example/Person_Example/bin/Debug/Person_Example.vshost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Person_Example/Person_Example/bin/Debug/Person_Example.vshost.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Person_Example/Person_Example/bin/Debug/Person_Example.vshost.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Person_Example/Person_Example/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Person_Example/Person_Example/obj/Debug/Person_Example.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Person_Example/Person_Example/obj/Debug/Person_Example.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Person_Example/Person_Example/obj/Debug/Person_Example.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Person_Example/Person_Example/obj/Debug/Person_Example.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Person_Example/Person_Example/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Person_Example/Person_Example/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Person_Example/Person_Example/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS Dedicated Server CLI.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS Dedicated Server GUI.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comments" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Counter-Strike WaRzOnE.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Counter.Strike.1.6.2015_YasDL.com/Counter Strike 1.6.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Counter.Strike.1.6.2015_YasDL.com/Read Me.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Counter.Strike.1.6.2015_YasDL.com/YasDL.com.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Counter.Strike.1.6.2015_YasDL.com/www.yasdl.com.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coursera FGCE4D7K4K55.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DVD Flick.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dev-C++.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DriverEasy - Shortcut.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Half-Life WaRzOnE.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Internet Download Manager.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Iot1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Keil uVision5.LNK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New Text Document (2).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New Text Document.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/0.0.0_log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/1.0.0_log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/2.0.0_log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/3.0.0_log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/4.0.0_log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/5.0.0_log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/6.0.0_log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/bmp2png.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/dvd/VIDEO_TS/VIDEO_TS.BUP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/dvd/VIDEO_TS/VIDEO_TS.IFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/dvd/VIDEO_TS/VIDEO_TS.VOB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/dvd/VIDEO_TS/VTS_01_0.BUP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/dvd/VIDEO_TS/VTS_01_0.IFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/dvd/VIDEO_TS/VTS_01_0.VOB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/dvd/VIDEO_TS/VTS_01_1.VOB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/dvd/VIDEO_TS/VTS_02_0.BUP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/dvd/VIDEO_TS/VTS_02_0.IFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/dvd/VIDEO_TS/VTS_02_0.VOB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/dvd/VIDEO_TS/VTS_02_1.VOB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/dvd/VIDEO_TS/VTS_03_0.BUP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/dvd/VIDEO_TS/VTS_03_0.IFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/dvd/VIDEO_TS/VTS_03_0.VOB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/dvd/VIDEO_TS/VTS_03_1.VOB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/dvd/VIDEO_TS/VTS_04_0.BUP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/dvd/VIDEO_TS/VTS_04_0.IFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/dvd/VIDEO_TS/VTS_04_0.VOB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/dvd/VIDEO_TS/VTS_04_1.VOB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/dvd/VIDEO_TS/VTS_05_0.BUP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/dvd/VIDEO_TS/VTS_05_0.IFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/dvd/VIDEO_TS/VTS_05_0.VOB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/dvd/VIDEO_TS/VTS_05_1.VOB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/dvd/VIDEO_TS/VTS_06_0.BUP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/dvd/VIDEO_TS/VTS_06_0.IFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/dvd/VIDEO_TS/VTS_06_0.VOB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/dvd/VIDEO_TS/VTS_06_1.VOB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/dvd/VIDEO_TS/VTS_07_0.BUP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/dvd/VIDEO_TS/VTS_07_0.IFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/dvd/VIDEO_TS/VTS_07_0.VOB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/dvd/VIDEO_TS/VTS_07_1.VOB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/dvdauthor.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/dvdauthor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/dvdflick.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/ffmpeg_audio_title0_track0_source0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/ffmpeg_audio_title1_track0_source0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/ffmpeg_audio_title2_track0_source0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/ffmpeg_audio_title3_track0_source0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/ffmpeg_audio_title4_track0_source0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/ffmpeg_audio_title5_track0_source0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/ffmpeg_audio_title6_track0_source0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/ffmpeg_menu0_-1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/ffmpeg_menu0_0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/ffmpeg_menu0_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/ffmpeg_menu0_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/ffmpeg_menu0_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/ffmpeg_menu0_4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/ffmpeg_menu0_5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/ffmpeg_menu0_6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/ffmpeg_menu1_-1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/ffmpeg_menu1_0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/ffmpeg_menu1_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/ffmpeg_menu1_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/ffmpeg_menu1_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/ffmpeg_menu1_4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/ffmpeg_menu1_5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/ffmpeg_menu1_6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/ffmpeg_menu2_-1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/ffmpeg_menu3_-1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/ffmpeg_video_title0_source0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/ffmpeg_video_title1_source0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/ffmpeg_video_title2_source0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/ffmpeg_video_title3_source0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/ffmpeg_video_title4_source0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/ffmpeg_video_title5_source0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/ffmpeg_video_title6_source0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/imgburn_write.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/mplex_menu0_-1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/mplex_menu0_0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/mplex_menu0_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/mplex_menu0_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/mplex_menu0_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/mplex_menu0_4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/mplex_menu0_5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/mplex_menu0_6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/mplex_menu1_-1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/mplex_menu1_0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/mplex_menu1_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/mplex_menu1_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/mplex_menu1_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/mplex_menu1_4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/mplex_menu1_5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/mplex_menu1_6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/mplex_menu2_-1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/mplex_menu3_-1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/mplex_title0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/mplex_title1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/mplex_title2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/mplex_title3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/mplex_title4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/mplex_title5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/mplex_title6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/rootmenu_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/rootmenu_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/rootmenu_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/rootmenu_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/spumux.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/spumux_menu0_-1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/spumux_menu0_0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/spumux_menu0_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/spumux_menu0_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/spumux_menu0_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/spumux_menu0_4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/spumux_menu0_5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/spumux_menu0_6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/spumux_menu1_-1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/spumux_menu1_0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/spumux_menu1_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/spumux_menu1_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/spumux_menu1_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/spumux_menu1_4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/spumux_menu1_5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/spumux_menu1_6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/spumux_menu2_-1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/spumux_menu3_-1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/titlemenu0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/titlemenu0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/titlemenu1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/titlemenu1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/titlemenu2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/titlemenu2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/titlemenu3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/titlemenu3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/titlemenu4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/titlemenu4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/titlemenu5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/titlemenu5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/titlemenu6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (2)/titlemenu6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (6)/Accounting accountancy business calculator maths economics 1000 x 1000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (6)/Business-1556-prw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (6)/FAFLogo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (6)/Financial-Accounting2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (6)/Mabani Nazarie Hakemiat Sherkati.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (6)/Mabani Nazarie Hakemiat Sherkati.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (6)/Mabani Nazarie Hakemiat Sherkati1.ppsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (6)/Summary.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (6)/Summary.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (6)/Tax-Accountant-Bentleigh (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (6)/Tax-Accountant-Bentleigh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (6)/Tax-and-Accounting-Software-Market.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (6)/acc-aud-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (6)/accountant-cv.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (6)/business-accounting-profit-growth-calculation-data-analysis-analytics-statistics-accountant-bookkeeper-with-laptop-cartoon-character-vector-isolated-concept-metapho.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (6)/default.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (6)/download.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (6)/download1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (6)/images (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (6)/images (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (6)/images (3).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (6)/images (4).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (6)/images.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (6)/images.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (6)/kisspng-accounting-business-accountant-management-tax-finance-5ab99c3d55bad3.3224925415221135973512.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (6)/unnamed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (6)/تصاویر-بلاگ-استخدام-حسابدار-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (6)/حاکمیت-شرکتی-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (6)/مبانی نظری حاکمیت شرکتی.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder (6)/مبانی نظری حاکمیت شرکتی.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0055.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0056.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0057.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0058.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0059.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0064.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0065.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0066.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0067.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0068.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0069.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0070.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0071.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0072.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0075.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0077.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0078.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0079.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0080.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0081.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0082.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0181.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0182.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0183.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0238.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0239.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0240.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0241.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0242.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0243.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0244.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0245.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0246.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0247.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0248.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0250.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0251.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0252.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0253.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0254.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0255.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0257.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0258.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0259.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0260.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0261.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0262.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0263.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0264.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0269.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0270.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0271.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0273.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0274.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0275.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0282.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0286.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0288.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0382.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0383.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0384.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0385.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0386.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0387.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0388.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0425.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0426.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0427.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0428.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0429.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0430.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0431.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0432.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0433.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0434.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0435.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0436.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0437.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0438.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0439.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0440.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0441.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0442.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0443.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0444.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0445.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0448.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0449.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/DSC_0480.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_20180120_125809_129.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_20180120_125848_185.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_20180120_125854_144.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۰_۰۶۴۱۱۳.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۰_۰۶۴۱۱۷.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۰_۰۶۴۲۳۷.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۰_۰۶۴۲۴۶.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۰_۰۶۴۲۵۳.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۰_۰۶۴۳۱۰.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۰_۰۶۴۳۱۴.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۰_۰۶۴۳۲۷.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۰_۰۶۴۳۳۸.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۰_۰۶۴۳۴۱.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۰_۰۶۴۳۵۶.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۰_۰۶۴۴۳۷.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۰_۰۶۴۴۴۴.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۰_۰۶۴۴۴۶.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۰_۰۶۴۴۵۹.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۰_۰۶۴۵۰۵.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۰_۰۶۴۵۱۷.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۰_۰۶۴۵۲۴.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۰_۰۶۴۵۳۰.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۰_۰۶۵۴۴۳.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۰_۰۶۵۴۵۲.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۰_۰۶۵۴۵۸.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۱_۱۱۴۵۲۴.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۱_۱۱۴۵۲۷.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۱_۱۱۴۵۳۱.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۸_۱۷۲۳۱۲.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۸_۱۷۲۶۲۰.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۸_۱۷۲۶۲۳.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۸_۱۷۲۶۳۵.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۸_۱۷۲۷۲۱.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۸_۱۷۲۷۲۹.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۸_۱۷۳۳۳۸.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۸_۱۷۳۶۲۱.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۸_۱۸۰۰۲۲.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۸_۱۸۰۰۳۰.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۸_۱۸۰۰۴۰.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۸_۱۸۰۰۴۳.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۸_۱۸۰۲۰۰.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۳۲۸_۱۸۰۲۰۲.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۴۰۲_۱۱۴۳۴۱.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۴۰۲_۱۱۴۵۵۲.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۴۰۲_۱۱۴۷۱۴.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۴۰۲_۱۱۴۷۳۰.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۴۰۲_۱۴۲۴۳۰.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۴۰۲_۱۴۲۴۳۲.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۴۰۲_۱۴۳۱۰۳.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۴۰۲_۱۴۳۱۰۶.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۴۰۲_۱۴۳۱۱۰.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۴۰۲_۱۴۳۱۴۴.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۵۰۴۰۲_۱۴۳۱۴۸.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۷۰۶۰۲_۲۱۰۳۵۳.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۷۰۶۰۲_۲۱۰۴۴۶.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۷۰۶۰۲_۲۱۰۵۲۴.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۷۰۶۰۲_۲۱۰۷۵۸.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۷۰۶۰۲_۲۱۰۸۲۳.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۷۰۶۰۲_۲۱۰۸۲۸.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۷۰۶۲۰_۰۹۲۷۵۷.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۷۰۶۲۰_۰۹۲۸۰۰.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۷۰۶۲۱_۰۷۱۱۰۲.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۷۰۶۲۱_۰۷۱۱۰۵.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۷۰۶۲۱_۰۷۱۱۱۶.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۷۰۶۲۱_۰۷۱۱۱۸.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۷۰۶۲۱_۰۷۱۱۴۲.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۷۰۶۲۱_۰۷۱۱۴۷.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۷۰۶۲۱_۰۷۱۱۵۹.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۸۰۱۱۸_۲۰۴۷۰۲.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۸۰۲۲۰_۱۵۳۱۲۵.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۸۰۲۲۰_۱۵۳۱۳۰.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۸۰۲۲۰_۱۵۳۲۰۵.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۸۰۳۲۶_۲۰۵۱۳۹.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۸۰۳۲۶_۲۰۵۱۴۷.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۸۰۳۲۶_۲۰۵۲۰۱.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۸۰۳۲۶_۲۰۵۲۱۲.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۸۰۳۲۶_۲۰۵۷۳۵.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۸۰۳۲۶_۲۰۵۷۳۹.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۸۰۳۲۶_۲۰۵۷۴۲.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۸۰۳۲۶_۲۰۵۸۱۸.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۸۰۳۲۶_۲۰۵۸۲۰.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۸۰۴۰۲_۱۰۴۷۲۶.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۸۰۴۰۲_۱۰۴۷۳۷.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۸۰۴۰۲_۱۰۴۷۴۰.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۸۰۴۰۲_۱۰۴۷۴۴.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۸۰۴۰۲_۱۰۴۷۴۶.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۸۰۴۰۲_۱۰۴۸۰۰.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۸۰۴۰۲_۱۰۴۸۵۵.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۸۰۴۰۲_۱۰۴۹۳۹.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۸۰۴۰۲_۱۳۵۴۵۰.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۸۰۴۰۲_۱۳۵۴۵۵.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۸۰۴۰۲_۱۴۳۸۳۶.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۸۰۴۰۲_۱۴۳۸۴۵.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/IMG_۲۰۱۸۰۴۰۲_۱۴۳۸۵۲.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/MOV_0249.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/MOV_0272.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/MOV_0276.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/MOV_0281.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/VID_20190106_211139_171.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۱۸۰۴۰۲_۱۴۲۲۰۷.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۱۸۰۴۰۲_۱۴۲۲۱۲.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۱۸۰۴۰۲_۱۴۲۲۱۴.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۱۸۰۴۰۲_۱۴۳۲۱۲.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۱۸۰۴۰۲_۱۴۳۲۲۹.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۱۸۰۴۰۲_۱۴۳۲۳۶.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۱۸۰۴۰۲_۱۴۳۴۲۲.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۱۸۰۴۰۲_۱۴۳۵۰۵.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۱۸۰۴۰۲_۱۴۳۵۱۷.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۱۸۰۴۰۲_۱۴۳۶۳۱.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۱۸۰۴۰۲_۱۴۳۸۱۹.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۱۸۰۴۰۲_۱۴۳۸۲۲.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۱۸۰۴۰۲_۱۴۳۸۲۶.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۱۸۰۴۰۲_۱۷۱۰۲۴.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۱۸۰۴۰۲_۱۷۱۰۲۷.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۱۸۰۴۰۲_۱۷۱۰۳۱.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۱۸۰۴۰۲_۱۷۱۰۵۷.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۱۸۰۴۰۲_۱۷۱۰۵۸.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۱۸۰۴۰۲_۱۷۱۰۵۹.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۱۸۰۷۰۱_۰۶۲۴۰۶.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۱۹۰۴۰۲_۱۵۳۰۰۸.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۱۹۰۴۰۲_۱۵۳۱۱۸.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۱۹۰۴۰۲_۱۵۳۱۲۶.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۲۰۰۶۱۶_۱۰۰۲۲۴.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۲۰۰۶۱۶_۱۰۰۳۱۵.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۲۰۰۶۱۶_۱۰۴۹۴۳.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۲۰۰۶۱۶_۱۰۴۹۴۴.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۲۰۰۶۱۶_۱۱۴۶۱۰.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۲۰۰۶۱۶_۱۱۴۶۱۲.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۲۰۰۶۱۶_۱۱۴۶۳۱.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۲۰۰۶۱۶_۱۱۴۶۳۴.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۲۰۰۶۱۶_۱۱۴۶۴۵.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۲۰۰۶۱۶_۱۱۴۸۰۳.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۲۰۰۶۱۶_۱۴۲۴۰۰.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۲۰۰۶۱۷_۰۶۴۸۰۴.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۲۰۰۶۱۷_۰۶۴۸۳۶.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۲۰۰۶۱۷_۱۲۱۹۳۱.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۲۰۰۶۱۷_۱۲۲۰۳۷.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۲۰۰۶۱۷_۱۲۲۴۰۰.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۲۰۰۶۱۸_۱۶۰۱۲۷.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۲۰۰۶۱۸_۱۶۰۱۳۷.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../New folder/۲۰۲۰۰۶۱۸_۱۶۰۱۵۶.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PC Health Check.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proteus 8 Professional.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Real-Estate-Agency" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Riz_Excersize/0.pdsprj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Riz_Excersize/0.pdsprj.DESKTOP-8CLBMCL.user.workspace" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Riz_Excersize/1.pdsprj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Riz_Excersize/1.pdsprj.DESKTOP-8CLBMCL.user.workspace" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Road To ULTRA THAILAND 2015 (Official 4K Recap).mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Telegram.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Uni.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Video.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Visual Studio 2015.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhatsApp.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WinMount.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gym_Website-single-page-" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2092gsAhO75Ke7z2873I4hInI6N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Test" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a67e27a6-fa9a-4a64-8cbb-27af10311a7e" name="Default Changelist" comment="" />
+      <created>1635442599264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635442599264</updated>
+      <workItem from="1635442601615" duration="32000" />
+      <workItem from="1635442650881" duration="14350000" />
+      <workItem from="1635614901928" duration="1270000" />
+      <workItem from="1635619349159" duration="1447000" />
+      <workItem from="1635629032695" duration="73000" />
+      <workItem from="1635781705567" duration="1189000" />
+      <workItem from="1636400652141" duration="23000" />
+      <workItem from="1648654302077" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

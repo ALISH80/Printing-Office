@@ -1,0 +1,149 @@
+@media only screen and (max-width:1320px) {
+    .BUT1{
+        font-size: 20px;
+    }
+    .ck.ck-toolbar.ck-toolbar_grouping>.ck-toolbar__items {
+        font-size: 10px;
+    }
+}
+@media only screen and (max-width:1090px) {
+    .BUT1{
+        font-size: 16px;
+    }
+    .ck.ck-toolbar.ck-toolbar_grouping>.ck-toolbar__items {
+        font-size: 7px;
+    }
+    .Telephone0 span , .Telephone1 span{
+        font-size: 14px;
+    }
+    .Telephone0 h5 , .Telephone1 h5{
+        font-size: 16px;
+    }
+    .span1{
+        font-size: 14px !important;
+    }
+}
+@media only screen and (max-width:920px) {
+    .BUT1{
+        font-size: 10px;
+    }
+    .ck.ck-toolbar.ck-toolbar_grouping>.ck-toolbar__items {
+        font-size: 6px;
+    }
+    .Telephone0 span , .Telephone1 span{
+        font-size: 12px;
+    }
+    .Telephone0 h5 , .Telephone1 h5{
+        font-size: 16px;
+    }
+    .span1{
+        font-size: 14px !important;
+    }
+}
+@media only screen and (max-width:769px) {
+    .BUT1{
+        font-size: 17px;
+    }
+    .ck.ck-toolbar.ck-toolbar_grouping>.ck-toolbar__items {
+        font-size: 11px;
+    }
+    .Telephone0 span , .Telephone1 span{
+        font-size: 14px;
+    }
+    .Telephone0 h5 , .Telephone1 h5{
+        font-size: 16px !important;
+    }
+    .span1{
+        font-size: 14px !important;
+        width: 160px;
+    }
+}
+@media only screen and (max-width:576px) {
+    .BUT1{
+        font-size: 17px;
+    }
+    .ck.ck-editor .ck-editor__top .ck-sticky-panel .ck-toolbar {
+        margin-top: 40px;
+    }
+    .right-box{
+        margin:0 auto;
+    }
+    .ck.ck-toolbar.ck-toolbar_grouping>.ck-toolbar__items {
+        font-size: 8px;
+    }
+    .Telephone0 span , .Telephone1 span{
+        font-size: 14px;
+    }
+    .Telephone0 h5 , .Telephone1 h5{
+        font-size: 16px !important;
+    }
+    .span1{
+        font-size: 14px !important;
+        width: 160px;
+    }
+}
+@media only screen and (max-width:490px) {
+    .BUT1{
+        font-size: 13px;
+    }
+    .ck.ck-editor .ck-editor__top .ck-sticky-panel .ck-toolbar {
+        margin-top: 40px;
+    }
+    .right-box{
+        margin:0 auto;
+    }
+    .ck.ck-toolbar.ck-toolbar_grouping>.ck-toolbar__items {
+        font-size: 6px;
+    }
+    .Telephone0 span , .Telephone1 span{
+        font-size: 12px;
+    }
+    .Telephone0 h5 , .Telephone1 h5{
+        font-size: 16px !important;
+    }
+    .span1{
+        font-size: 12px !important;
+        width: 160px;
+    }
+}
+@media only screen and (max-width:380px) {
+    .BUT1{
+        font-size: 10px;
+    }
+    .ck.ck-editor .ck-editor__top .ck-sticky-panel .ck-toolbar {
+        margin-top: 40px;
+    }
+    .right-box{
+        margin:0 auto;
+    }
+    .ck.ck-toolbar.ck-toolbar_grouping>.ck-toolbar__items {
+        font-size: 5px;
+    }
+    .Telephone0 span , .Telephone1 span{
+        font-size: 11px;
+    }
+    .Telephone0 h5 , .Telephone1 h5{
+        font-size: 14px !important;
+    }
+    .span1{
+        font-size: 11px !important;
+        width: 160px;
+    }
+}
+@media only screen and (max-width:335px) {
+    .BUT1{
+        font-size: 7px;
+    }
+    .ck.ck-editor .ck-editor__top .ck-sticky-panel .ck-toolbar {
+        margin-top: 40px;
+    }
+    label{
+        font-size: 10px;
+    }
+    .right-box{
+        margin:0 auto;
+    }
+    .ck.ck-toolbar.ck-toolbar_grouping>.ck-toolbar__items {
+        font-size: 4px;
+    }
+}
